@@ -3,6 +3,46 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.13.0-rc.0](https://github.com/SAP/ui5-webcomponents/compare/v1.12.0...v1.13.0-rc.0) (2023-04-06)
+
+
+### Bug Fixes
+
+* fix components metadata calculation ([#6865](https://github.com/SAP/ui5-webcomponents/issues/6865)) ([0089891](https://github.com/SAP/ui5-webcomponents/commit/0089891fae58f1271873f1fff0109bbc9b908b19))
+* **framework:** remove invalid element from head ([#6848](https://github.com/SAP/ui5-webcomponents/issues/6848)) ([bb52a7b](https://github.com/SAP/ui5-webcomponents/commit/bb52a7bcfcb2b48f2cc7efe810ca119d09456245)), closes [#6748](https://github.com/SAP/ui5-webcomponents/issues/6748)
+* **playground:** correct ChangelogSorter.ts file name ([#6871](https://github.com/SAP/ui5-webcomponents/issues/6871)) ([b9c8f29](https://github.com/SAP/ui5-webcomponents/commit/b9c8f29037b502cf866a327151c312e697d9715f))
+* **ui5-input, ui5-button:** align form controls vertically ([#6860](https://github.com/SAP/ui5-webcomponents/issues/6860)) ([88582d6](https://github.com/SAP/ui5-webcomponents/commit/88582d632dc7c7a76f138eefd1ab5b3ada71b79e))
+
+
+### Features
+
+* **playground:** add build time links parser ([#6650](https://github.com/SAP/ui5-webcomponents/issues/6650)) ([0c9204b](https://github.com/SAP/ui5-webcomponents/commit/0c9204b3448d35710aa5af4bc6623031d424d736))
+* **ui5-button, ui5-segmented-button, ...:** add samples to storybook ([#6862](https://github.com/SAP/ui5-webcomponents/issues/6862)) ([1e358fe](https://github.com/SAP/ui5-webcomponents/commit/1e358fe1eb1481b13308ddcd4a21f76b5b887e69))
+
+
+
+
+
+# [1.12.0](https://github.com/SAP/ui5-webcomponents/compare/v1.12.0-rc.3...v1.12.0) (2023-04-04)
+
+
+### Bug Fixes
+
+* **framework:** relative paths for external themes ([#6799](https://github.com/SAP/ui5-webcomponents/issues/6799)) ([df1ddfc](https://github.com/SAP/ui5-webcomponents/commit/df1ddfc955ef3bb46d3b1e4694e7b931655a3079))
+* **theming:** fix icons version display for custom themes (built via the ThemeDesigner) ([#6815](https://github.com/SAP/ui5-webcomponents/issues/6815)) ([63ff800](https://github.com/SAP/ui5-webcomponents/commit/63ff8007889a66efae074fc6b4dbcb1b7ea36713)), closes [#6758](https://github.com/SAP/ui5-webcomponents/issues/6758)
+* **ui5-checkbox:** apply correct styles to down state ([#6824](https://github.com/SAP/ui5-webcomponents/issues/6824)) ([c7c186d](https://github.com/SAP/ui5-webcomponents/commit/c7c186d048ed3a38941610e319a2568b9e92073a))
+* **ui5-daypicker:** date selection range light blue indication ([#6836](https://github.com/SAP/ui5-webcomponents/issues/6836)) ([d16cf33](https://github.com/SAP/ui5-webcomponents/commit/d16cf33ef9418d7ae8857845709dd618593a3d96)), closes [#6781](https://github.com/SAP/ui5-webcomponents/issues/6781)
+* **ui5-progress-indicator:** disabled opacity fix ([#6808](https://github.com/SAP/ui5-webcomponents/issues/6808)) ([1174b48](https://github.com/SAP/ui5-webcomponents/commit/1174b486d2df234b3e295af4e3d95158751bf58b))
+
+
+### Features
+
+* **framework:** re-export all public imports from index.js ([#6823](https://github.com/SAP/ui5-webcomponents/issues/6823)) ([a08d464](https://github.com/SAP/ui5-webcomponents/commit/a08d4645aeaae6e6f5eb8c55d8cb8bfaf4aa58b6))
+
+
+
+
+
 # [1.12.0-rc.3](https://github.com/SAP/ui5-webcomponents/compare/v1.12.0-rc.2...v1.12.0-rc.3) (2023-03-30)
 
 
